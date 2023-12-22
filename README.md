@@ -12,3 +12,5 @@ Sigstore and other projects in the space. He is always looking to discuss tools 
 | Date           | Title                                                                      | Event                                                                                           | Links                                                                                       |
 | -------------- | -------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
 | November 2023 | Sign, Attest, and Verify! A Practical Guide for Software Supply Chain Security| KubeDay @ India | [Recording](https://www.youtube.com/watch?v=vw_MsSZUZd0) |
+| July 2023 | Demystifying Kyverno: Empowering Kubernetes with Policy as Code | CLOUD NATIVE
+Community Groups @ Luxembourg | [Slides](https://docs.google.com/presentation/d/1-NWJumEXpE2_PRq-NsoxPYDjlzobR7uM/edit#slide=id.p9) |
